@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "13492380075",
+    "project_id": "proyecto-firebase-marco",
+    "storage_bucket": "proyecto-firebase-marco.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13492380075:android:2a7f1bb5e3a1d77e6f32ee",
+        "android_client_info": {
+          "package_name": "com.example.mi_app_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPp5tuj77IymQepDkq0LvS9pUJ9MgFvGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
